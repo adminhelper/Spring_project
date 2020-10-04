@@ -1,11 +1,63 @@
-# Spring_project
+# WeddingProject
+ 
+<img src="https://user-images.githubusercontent.com/63235257/87305051-c916ed80-c550-11ea-92b3-49a965f8600c.png" width="30%" height="30%">
 
-- 소소웨딩 프로젝트
-- 눈에 보이는 최저가 웨딩 사이트
-- Spring Security를 이용한 권한, 인증, 보안
-- BcryptPasswordEnconder를 이용한 유저 비밀번호 암호화
-- 전체 검색 및 소검색
-- 계층형 게시판, 댓글, 조회수, 정렬 
-- API를 활용한 결제/지도 시스템
-- 관리자 페이지를 통한 통합 관리(악성게시글, 댓글 삭제, 회원 상태(일시정지, 벤), 상품승인
-- Stack : Spring , ER-WIN , Tomcat , SQLDeveloper, Git , GitHub , Oracle , MyBatis , jQuery , Ajax , Javascript , JSP , HTML5 , CSS3 , BootStrap
+
+예약실에 일일이 문의하지 않고도 최저가를 알아볼 수 있는 길을 열어드립니다.
+
+대한민국에는 수많은 결혼관련 업체들이 존재합니다.
+
+견적을 위해 전화를 하는 경우 업체 측은 방문을 유도하기 때문에 필요한 정보를 얻기가 힘듭니다.
+
+시간이 없어서 직접 꼼꼼하게 따지고 알아보지 못하기 때문에 적지않는 돈을 투자하게 됩니다.
+
+이런 불편함을 해소하고, 예비부부님들의 편의를 위해, 최적의 결혼 환경을 만들어 드리고자
+웹 사이트를 구현 하였습니다.
+
+***
+
+### 사용기술
+
++ Spring
++ java
++ myBatis
++ Oracle DB
++ Apache Tomcat
++ Spring security
++ jsp
++ ajax
++ xml
++ JavaScript/jQuery
++ bootstrap
++ html, css
++ iamport, kakaoMap , KaKaopay
++ Github
+
+***
+
+### 개발일정
+
+***1주차***
+
+주제 회의 및 아이디어 토론 
+
+***2주차***
+
+기능구상 및 DB제작
+
+***3~8주차***
+
+BackEnd, FrontEnd 개발
+
+***9주차***
+
+디버깅, 보고서 작성, 발표준비
+
+***
+
+### 시연영상
+
+- [웹 페이지 시연 영상]
+
+https://drive.google.com/file/d/154vx0q4q8vKgcbPDcLdCPJa-mRzt3Jic/view?usp=sharing
+
